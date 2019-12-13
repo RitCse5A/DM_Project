@@ -1,0 +1,1501 @@
+Crop,Temperature,Rainfall,Humidity
+Wheat,34,75,68
+Wheat,34,75,71
+Wheat,34,67,71
+Field Pea,33,58,74
+Wheat,35,86,68
+Wheat,33,74,73
+Wheat,32,81,69
+Rice,33,100,73
+Wheat,33,61,66
+Gram,34,45,71
+SugarCane,35,272,68
+Rice,32,138,72
+Gram,34,36,66
+Rap seed,32,45,71
+Rap seed,34,38,66
+Rap seed,33,44,66
+Rice,34,116,66
+SugarCane,33,298,68
+Rice,35,114,70
+Gram,35,40,71
+Wheat,35,85,73
+Rap seed,32,41,68
+Wheat,35,77,70
+Field Pea,34,51,68
+Field Pea,33,51,69
+Rice,35,106,72
+Wheat,32,89,73
+Rap seed,35,38,67
+Field Pea,32,57,70
+Field Pea,35,40,68
+Wheat,32,78,72
+Gram,35,40,68
+SugarCane,33,255,71
+Rice,33,136,71
+Gram,33,44,66
+Rap seed,32,39,75
+Wheat,33,72,68
+Field Pea,35,40,74
+Wheat,32,62,75
+SugarCane,34,254,65
+Field Pea,34,48,68
+Wheat,32,60,70
+Gram,32,42,71
+SugarCane,33,290,68
+Rap seed,34,36,71
+Wheat,34,67,66
+Wheat,33,82,66
+SugarCane,35,257,75
+Rice,32,116,75
+Field Pea,32,52,65
+Field Pea,34,52,67
+Rice,35,117,72
+Field Pea,34,44,72
+Rap seed,32,35,73
+Rap seed,33,38,68
+Wheat,34,86,65
+Gram,35,35,66
+Wheat,35,65,75
+SugarCane,35,270,66
+Gram,32,38,65
+SugarCane,32,254,69
+Rice,34,128,65
+SugarCane,33,273,66
+Field Pea,35,42,75
+Rice,34,109,65
+Field Pea,34,56,67
+Gram,35,36,71
+Field Pea,35,55,71
+Gram,35,36,70
+Field Pea,32,54,75
+Gram,33,35,69
+Rap seed,35,42,66
+SugarCane,33,298,65
+Gram,33,44,72
+Rice,35,144,69
+Wheat,33,90,73
+SugarCane,34,273,70
+Gram,34,37,73
+Rice,32,113,73
+Gram,34,41,70
+Field Pea,33,56,71
+Rap seed,34,37,67
+Wheat,34,82,69
+Wheat,33,60,73
+SugarCane,34,279,69
+Rice,32,132,69
+Rice,33,141,75
+SugarCane,34,258,72
+Wheat,35,79,71
+Field Pea,32,46,75
+SugarCane,34,298,67
+Rice,32,145,73
+Field Pea,35,46,68
+SugarCane,32,292,73
+SugarCane,33,276,68
+Gram,35,40,72
+SugarCane,35,287,74
+Field Pea,35,56,65
+Gram,33,42,73
+Rice,32,149,73
+Gram,35,45,68
+Field Pea,34,51,70
+SugarCane,34,294,74
+Rice,35,144,68
+Rice,33,104,72
+Field Pea,34,50,71
+SugarCane,32,274,69
+Field Pea,34,40,75
+Rice,32,103,75
+SugarCane,33,299,66
+Wheat,35,82,74
+SugarCane,33,270,71
+Field Pea,32,50,71
+Wheat,34,77,68
+Field Pea,33,40,72
+Rap seed,35,40,70
+Field Pea,34,54,74
+Rice,32,132,70
+Gram,34,43,71
+Rice,34,109,66
+Wheat,34,77,66
+Rice,34,150,74
+Rap seed,34,42,68
+Field Pea,35,45,70
+Wheat,32,82,74
+Rap seed,35,41,71
+Gram,35,36,65
+Wheat,35,87,68
+SugarCane,32,289,70
+SugarCane,32,296,72
+SugarCane,33,296,71
+SugarCane,35,255,72
+Wheat,34,64,74
+SugarCane,33,270,75
+Gram,35,36,74
+SugarCane,34,281,66
+Rap seed,33,35,70
+Rap seed,32,45,70
+SugarCane,33,256,74
+Field Pea,35,59,69
+Gram,33,36,73
+Rap seed,34,42,65
+Gram,34,39,75
+Rap seed,32,38,75
+SugarCane,32,275,65
+Rice,32,146,65
+SugarCane,34,300,70
+Field Pea,33,40,73
+Wheat,33,61,65
+Rice,34,102,71
+Gram,32,37,75
+Rice,34,145,71
+Rap seed,35,42,67
+Field Pea,34,60,75
+Wheat,33,79,68
+Gram,33,45,65
+Field Pea,34,46,68
+Rap seed,34,42,74
+Wheat,35,77,75
+Gram,32,40,73
+Wheat,35,74,67
+Rice,33,121,70
+Wheat,33,69,71
+Rice,32,149,73
+SugarCane,35,295,68
+Rice,33,101,73
+Wheat,34,88,75
+SugarCane,33,253,71
+Gram,33,35,66
+Gram,34,38,69
+SugarCane,34,291,70
+Gram,32,43,70
+Field Pea,34,60,75
+Rice,34,135,70
+Gram,34,35,75
+Gram,34,38,66
+Rice,33,122,65
+Wheat,33,84,71
+Field Pea,34,55,66
+SugarCane,32,292,68
+Field Pea,33,42,71
+Wheat,33,85,71
+Field Pea,33,40,69
+Rice,34,125,67
+Field Pea,34,53,69
+SugarCane,33,252,66
+SugarCane,33,252,73
+Rice,33,126,65
+Wheat,34,65,69
+Field Pea,34,42,68
+Rap seed,34,37,68
+Rap seed,33,39,70
+Wheat,33,80,70
+Rap seed,32,36,71
+Rice,32,124,70
+Gram,34,44,65
+Wheat,32,68,72
+SugarCane,33,283,75
+Gram,33,44,68
+Wheat,33,67,71
+Gram,35,41,72
+Rap seed,35,40,72
+Rice,32,108,71
+Rap seed,34,43,75
+Rap seed,34,37,72
+Rap seed,34,41,74
+Wheat,33,72,75
+Rap seed,33,39,71
+Wheat,33,63,68
+Gram,34,41,67
+Wheat,34,82,74
+Wheat,35,69,65
+SugarCane,35,250,65
+Rice,32,134,65
+Rap seed,34,41,72
+Gram,34,44,65
+Field Pea,33,58,66
+Wheat,32,66,68
+Rice,33,135,72
+Wheat,34,64,70
+Rap seed,35,39,72
+Gram,33,44,75
+Wheat,33,82,66
+Gram,35,35,65
+Rap seed,33,37,74
+SugarCane,33,262,71
+Gram,34,36,70
+Rice,35,101,67
+SugarCane,33,260,68
+Wheat,32,64,73
+SugarCane,35,255,69
+Rap seed,34,40,66
+Rap seed,34,38,69
+Field Pea,32,54,70
+Wheat,35,89,71
+Field Pea,32,44,71
+Gram,33,42,72
+Gram,34,40,65
+SugarCane,34,264,75
+Rice,32,140,73
+Rice,32,142,70
+Wheat,33,85,75
+SugarCane,35,254,73
+Field Pea,35,57,72
+Rice,32,107,70
+Field Pea,33,41,73
+Rap seed,35,40,69
+Field Pea,34,42,70
+Rap seed,33,36,74
+Rap seed,34,44,67
+Gram,33,41,73
+SugarCane,32,296,65
+Wheat,33,86,75
+Gram,35,41,75
+Rap seed,32,45,70
+Rap seed,33,37,70
+Field Pea,35,50,71
+Wheat,35,75,69
+Rap seed,33,45,69
+Rice,34,142,68
+Rap seed,32,39,70
+Rice,32,131,75
+Rap seed,32,38,75
+Wheat,35,79,67
+Wheat,33,60,65
+Wheat,33,74,74
+Rap seed,32,41,74
+Gram,34,42,69
+Rap seed,32,43,65
+Field Pea,34,50,73
+Field Pea,34,41,66
+Rice,34,102,70
+Rice,35,122,66
+Rice,35,134,68
+SugarCane,34,274,71
+Wheat,34,68,68
+Gram,35,37,73
+Wheat,34,75,67
+Rap seed,34,37,66
+Rap seed,32,45,73
+Wheat,32,66,70
+Gram,34,37,74
+SugarCane,33,294,69
+SugarCane,32,253,71
+Rap seed,33,45,71
+SugarCane,33,298,66
+Wheat,34,61,74
+SugarCane,33,252,72
+Rap seed,32,43,65
+SugarCane,33,258,74
+SugarCane,35,266,70
+Gram,35,42,68
+SugarCane,33,272,70
+Rice,33,121,73
+Rap seed,32,42,70
+SugarCane,32,287,68
+Rice,34,136,70
+Rice,35,125,75
+Rap seed,34,41,69
+SugarCane,34,267,67
+Gram,35,43,68
+Field Pea,32,60,70
+Field Pea,35,48,74
+Field Pea,33,58,75
+Wheat,33,65,75
+Wheat,33,76,68
+Field Pea,35,50,71
+Gram,35,44,72
+Rap seed,35,36,72
+SugarCane,34,252,66
+Gram,34,37,75
+Rap seed,32,37,69
+SugarCane,34,296,72
+Wheat,34,90,68
+Gram,35,35,71
+Rap seed,33,36,71
+Rap seed,32,44,68
+SugarCane,32,284,65
+Wheat,35,62,72
+Gram,33,45,71
+Rap seed,35,38,69
+Rice,32,133,70
+Gram,34,39,72
+Gram,32,36,65
+Rice,35,134,71
+Field Pea,33,42,68
+Wheat,34,71,65
+Rice,34,139,68
+Field Pea,33,57,69
+Gram,35,43,70
+Field Pea,32,50,75
+Rice,35,148,69
+Field Pea,33,46,72
+Field Pea,33,50,75
+SugarCane,32,289,73
+Wheat,33,67,74
+Gram,34,36,71
+Rap seed,32,43,73
+SugarCane,34,272,75
+Rice,34,144,68
+SugarCane,33,298,70
+Gram,32,35,74
+SugarCane,34,258,67
+SugarCane,34,274,71
+Rice,35,143,65
+Wheat,35,84,75
+Rap seed,34,41,65
+Wheat,35,78,69
+Field Pea,33,50,71
+Gram,34,37,74
+Field Pea,34,41,75
+Gram,35,45,70
+Gram,35,44,69
+Wheat,33,81,71
+Gram,34,36,72
+Wheat,34,70,65
+Field Pea,34,54,66
+Rice,33,142,66
+Gram,35,38,71
+Gram,33,39,74
+SugarCane,34,259,72
+Rice,34,108,66
+Rice,34,111,75
+Rap seed,33,35,68
+Wheat,34,84,72
+SugarCane,32,281,74
+Rap seed,32,36,74
+SugarCane,33,296,72
+Field Pea,35,55,65
+Rice,34,102,72
+Gram,34,38,71
+Rap seed,33,42,68
+Field Pea,34,41,65
+Rap seed,35,35,68
+Rice,33,108,65
+SugarCane,34,299,65
+Rap seed,33,35,72
+Wheat,35,89,71
+Wheat,35,61,71
+Gram,32,41,65
+Rice,32,138,75
+SugarCane,35,279,74
+Field Pea,35,47,68
+Rice,34,124,69
+Field Pea,34,48,69
+Rice,34,116,69
+Wheat,35,89,71
+Wheat,35,84,65
+Rice,32,146,68
+Rap seed,32,41,65
+SugarCane,35,255,67
+Gram,33,39,69
+SugarCane,34,300,66
+Rap seed,33,41,65
+Rap seed,33,43,69
+Rap seed,32,45,65
+Rap seed,34,45,66
+SugarCane,35,299,65
+Gram,34,42,71
+Rap seed,32,45,70
+SugarCane,34,275,68
+SugarCane,32,291,71
+Rap seed,33,40,70
+Wheat,35,61,69
+Wheat,32,87,74
+Field Pea,34,48,65
+Rap seed,33,38,68
+Rap seed,35,42,71
+Wheat,32,82,71
+Rice,33,106,69
+Rap seed,35,36,72
+SugarCane,33,283,66
+SugarCane,32,252,69
+SugarCane,35,276,68
+Field Pea,35,46,69
+SugarCane,34,299,74
+SugarCane,34,275,69
+SugarCane,35,295,67
+Field Pea,32,50,65
+SugarCane,33,254,68
+Field Pea,33,49,71
+Rap seed,33,40,65
+SugarCane,34,286,70
+Field Pea,33,45,66
+Field Pea,33,58,68
+Field Pea,34,49,66
+SugarCane,34,255,71
+Wheat,34,76,70
+SugarCane,32,279,70
+Rap seed,32,45,73
+SugarCane,32,294,74
+Gram,35,35,72
+Rap seed,32,35,74
+Gram,35,45,65
+Field Pea,35,59,68
+Gram,32,38,69
+Field Pea,35,60,65
+Field Pea,34,40,65
+Gram,32,42,75
+Field Pea,34,48,68
+Rap seed,33,38,74
+Field Pea,33,51,69
+Field Pea,32,42,73
+Wheat,35,69,65
+Field Pea,32,59,69
+SugarCane,33,269,65
+Rice,35,143,71
+Wheat,33,85,65
+Gram,33,45,75
+Rice,32,129,65
+Gram,34,42,69
+Field Pea,33,43,65
+Rap seed,33,42,69
+SugarCane,33,299,73
+Wheat,33,77,75
+SugarCane,32,297,70
+SugarCane,33,295,71
+Rice,32,126,68
+Field Pea,35,51,73
+Rap seed,34,37,65
+Field Pea,34,40,66
+Rap seed,35,39,65
+Gram,33,41,73
+Rice,33,128,70
+Gram,34,41,66
+Rap seed,32,42,65
+Rap seed,34,44,71
+Rice,34,149,66
+SugarCane,32,282,75
+Field Pea,33,58,68
+Rice,35,149,72
+Field Pea,33,43,75
+Gram,32,35,70
+Rap seed,33,43,73
+Gram,35,41,71
+SugarCane,35,287,71
+SugarCane,33,271,75
+SugarCane,35,277,68
+Wheat,34,61,71
+Rap seed,33,37,71
+Rap seed,35,39,74
+Rap seed,34,44,66
+Rice,35,144,71
+SugarCane,34,277,65
+Field Pea,32,45,73
+Rice,32,150,74
+Rap seed,34,41,65
+Rice,32,134,72
+Rap seed,35,38,71
+SugarCane,33,299,65
+SugarCane,33,276,70
+Gram,35,41,69
+Rice,34,140,71
+Rap seed,35,42,68
+Field Pea,34,50,74
+Rice,35,111,71
+SugarCane,34,256,65
+Rice,33,137,71
+Rap seed,33,43,66
+Gram,33,37,66
+Gram,33,43,71
+Rice,35,147,73
+Rap seed,33,43,73
+SugarCane,34,297,68
+Gram,35,45,72
+Gram,34,41,70
+Rice,33,118,69
+Rice,34,120,65
+Rap seed,34,38,68
+Wheat,35,63,72
+Field Pea,33,57,70
+Rice,33,150,71
+Rap seed,32,44,72
+Field Pea,33,46,75
+Rap seed,33,36,66
+Rap seed,35,40,71
+Field Pea,35,52,70
+Gram,35,35,75
+SugarCane,34,253,71
+Wheat,32,73,65
+Rap seed,34,38,75
+Rap seed,32,44,73
+SugarCane,35,280,72
+Wheat,32,68,73
+Wheat,34,78,67
+Rap seed,34,42,67
+SugarCane,34,282,69
+Field Pea,35,49,71
+Gram,35,43,68
+Field Pea,33,52,66
+Rap seed,34,36,69
+Gram,33,38,66
+Rap seed,33,38,72
+Wheat,33,78,73
+Gram,33,38,75
+Gram,34,45,68
+Rice,34,124,75
+Field Pea,34,59,72
+Gram,33,43,75
+Rap seed,35,40,68
+Gram,34,37,65
+Rap seed,34,45,69
+Rice,34,141,66
+Rap seed,35,45,75
+Field Pea,33,51,69
+Gram,35,45,71
+Rice,32,107,71
+Rice,34,148,66
+Wheat,35,61,68
+Gram,33,45,70
+SugarCane,33,278,71
+Rap seed,33,40,69
+Rice,35,118,70
+Rice,35,137,75
+Field Pea,35,59,75
+Field Pea,34,47,71
+Wheat,33,87,66
+Gram,34,40,66
+Rap seed,35,44,65
+Field Pea,35,42,74
+Wheat,35,83,71
+Wheat,32,76,65
+Rice,32,130,65
+Rice,32,106,73
+Rice,32,141,74
+Field Pea,33,44,74
+Gram,34,42,65
+SugarCane,32,278,70
+Rap seed,35,41,68
+Rice,33,124,75
+Rice,33,115,73
+Field Pea,34,40,68
+Wheat,34,63,73
+Rice,33,148,66
+Wheat,33,81,65
+Rap seed,33,37,73
+Rap seed,34,39,71
+Wheat,34,79,73
+Wheat,34,66,66
+SugarCane,35,277,70
+Field Pea,34,56,71
+Gram,33,38,74
+Rice,33,126,70
+Rap seed,33,40,66
+Field Pea,33,53,65
+Field Pea,35,51,69
+Wheat,35,90,71
+Rap seed,33,37,66
+SugarCane,34,262,74
+Gram,35,39,74
+Field Pea,33,57,72
+Rice,35,101,71
+Rice,35,141,71
+Field Pea,32,48,65
+Rap seed,32,35,75
+Rap seed,33,36,65
+Field Pea,32,59,68
+Wheat,32,83,71
+Gram,33,35,69
+Rice,33,106,69
+Gram,33,36,68
+Field Pea,32,45,69
+Rap seed,35,43,69
+Gram,33,44,71
+Wheat,32,60,75
+Wheat,33,84,65
+Gram,35,39,67
+Gram,32,42,73
+SugarCane,34,252,73
+SugarCane,32,287,71
+Rap seed,34,36,70
+Rap seed,32,35,67
+Rap seed,34,40,70
+Field Pea,32,58,73
+Rap seed,33,36,69
+Rap seed,34,36,65
+Gram,33,42,65
+SugarCane,33,298,72
+Field Pea,34,59,67
+SugarCane,33,294,66
+SugarCane,34,290,69
+SugarCane,33,274,71
+Rice,33,116,68
+SugarCane,34,300,75
+SugarCane,34,291,65
+Field Pea,35,45,68
+Rice,32,125,65
+Gram,32,37,70
+Gram,32,37,71
+Rice,33,124,68
+Field Pea,35,50,70
+Gram,32,45,75
+Rap seed,34,35,72
+Rice,34,149,65
+Wheat,34,65,75
+Wheat,35,62,71
+Gram,34,35,66
+Wheat,32,68,65
+Rap seed,33,41,71
+Gram,33,36,66
+Rap seed,34,40,75
+Field Pea,33,58,69
+Rice,35,111,71
+Wheat,34,80,65
+Gram,34,37,68
+Rice,35,105,65
+Gram,35,38,67
+Wheat,35,75,67
+SugarCane,33,259,65
+Rap seed,35,39,69
+Rice,34,105,72
+Rice,33,103,69
+Rap seed,34,40,72
+Field Pea,35,54,71
+Wheat,32,75,68
+SugarCane,34,296,75
+Wheat,35,83,69
+Wheat,35,81,74
+Gram,33,40,68
+Field Pea,34,53,66
+Field Pea,32,58,65
+Wheat,34,64,74
+Rice,32,149,65
+SugarCane,32,300,75
+Rice,33,122,72
+Gram,33,45,71
+Field Pea,32,43,65
+Wheat,35,79,68
+Gram,34,44,71
+SugarCane,34,289,74
+Rap seed,33,42,71
+Rap seed,33,35,66
+Rice,35,115,69
+Wheat,35,83,71
+Rice,32,145,69
+SugarCane,32,287,72
+SugarCane,34,281,74
+Field Pea,34,58,75
+Gram,34,45,75
+Gram,32,45,68
+Field Pea,34,45,69
+Gram,33,43,65
+Rap seed,32,35,65
+SugarCane,32,290,69
+Rice,32,112,69
+Wheat,35,90,75
+Field Pea,33,46,69
+SugarCane,32,265,70
+SugarCane,35,285,68
+Gram,33,40,74
+Field Pea,32,52,71
+Wheat,32,90,65
+Rice,34,118,66
+Wheat,35,87,66
+SugarCane,32,298,70
+Rap seed,33,36,65
+Wheat,33,79,69
+Wheat,34,85,75
+SugarCane,34,269,65
+Rap seed,35,45,65
+SugarCane,33,291,72
+Field Pea,34,50,65
+Field Pea,34,60,71
+Rap seed,35,35,67
+Rap seed,32,37,65
+Field Pea,34,43,72
+Wheat,34,81,69
+Rap seed,34,40,73
+Rice,34,115,74
+Wheat,35,65,66
+Field Pea,32,60,70
+SugarCane,32,296,71
+Wheat,34,81,65
+Rice,35,113,74
+Field Pea,33,57,66
+Field Pea,35,48,66
+Rap seed,35,35,69
+Field Pea,35,50,67
+Field Pea,35,40,71
+Wheat,32,88,70
+Field Pea,33,40,68
+Rice,32,136,70
+Rice,33,137,70
+Rap seed,32,36,70
+Wheat,33,65,66
+Rice,33,110,68
+Field Pea,34,57,69
+Field Pea,33,47,70
+Wheat,33,64,66
+Rap seed,34,35,65
+Rice,34,119,68
+SugarCane,32,289,67
+Rap seed,35,42,73
+Rice,34,119,67
+Wheat,35,78,71
+Wheat,32,84,65
+Wheat,33,83,69
+Field Pea,32,48,71
+Rice,34,141,65
+Rice,33,121,71
+Field Pea,33,42,65
+Wheat,33,71,72
+Gram,32,40,69
+Wheat,34,72,68
+Gram,35,36,69
+Gram,33,45,69
+Rice,33,114,75
+Rice,35,106,67
+Wheat,33,70,70
+Wheat,33,87,68
+SugarCane,35,276,66
+SugarCane,35,297,66
+SugarCane,35,294,72
+Rap seed,32,37,71
+Rap seed,33,39,69
+SugarCane,34,270,66
+Rap seed,33,44,66
+SugarCane,32,278,65
+Field Pea,35,59,72
+Wheat,33,84,72
+Field Pea,35,48,68
+Rice,33,119,66
+Rap seed,35,45,66
+Rap seed,34,41,74
+Rice,32,122,72
+Rice,35,131,65
+Gram,33,39,70
+Rap seed,32,35,75
+Field Pea,32,55,70
+Rice,34,127,71
+Rice,33,139,69
+Field Pea,32,56,73
+Wheat,34,79,66
+SugarCane,35,276,72
+Wheat,32,73,71
+Rap seed,34,43,68
+Gram,34,35,75
+Field Pea,33,52,71
+SugarCane,33,291,65
+Gram,32,41,70
+Rap seed,35,39,70
+Field Pea,33,52,66
+Rice,35,121,67
+SugarCane,33,281,75
+Rap seed,33,40,70
+Rap seed,34,37,71
+Field Pea,32,50,65
+Wheat,34,88,68
+Field Pea,35,55,69
+Rice,35,147,71
+Gram,32,45,75
+Field Pea,33,43,75
+Wheat,33,77,69
+Rice,32,101,74
+Rap seed,32,43,72
+Field Pea,32,46,73
+Gram,32,37,68
+Wheat,35,61,71
+Rice,35,108,75
+Field Pea,33,41,70
+Rice,33,146,75
+Gram,34,41,66
+SugarCane,35,264,67
+Gram,34,44,73
+Rice,35,140,74
+SugarCane,32,286,68
+Wheat,33,81,71
+Field Pea,32,55,73
+Rice,33,134,66
+Rap seed,33,43,75
+Wheat,34,62,66
+Gram,33,42,70
+SugarCane,33,298,69
+Field Pea,32,59,71
+SugarCane,33,286,66
+Gram,33,41,71
+Rap seed,34,39,69
+Gram,35,37,71
+Gram,33,38,74
+Rice,35,123,66
+Field Pea,34,42,65
+Wheat,35,76,72
+Rap seed,34,44,68
+SugarCane,35,280,71
+Rice,35,109,68
+Field Pea,32,47,68
+Field Pea,34,50,65
+Rice,32,112,71
+Wheat,32,84,75
+Field Pea,33,56,73
+Wheat,33,65,73
+SugarCane,34,259,72
+Gram,33,37,69
+Gram,33,38,68
+Wheat,33,70,73
+Wheat,33,72,72
+Field Pea,33,54,71
+SugarCane,33,295,70
+Gram,32,40,75
+Wheat,33,82,72
+Field Pea,35,44,72
+Rap seed,35,35,65
+Wheat,33,73,68
+Wheat,34,83,71
+Gram,32,43,75
+Rice,33,150,72
+Field Pea,33,47,74
+Wheat,34,63,70
+Gram,33,42,73
+Gram,34,40,70
+Wheat,32,85,65
+Field Pea,33,40,75
+Rice,33,141,65
+Rap seed,35,45,71
+SugarCane,35,286,72
+Gram,34,39,74
+Wheat,34,70,72
+Rice,35,104,71
+Rap seed,35,44,70
+Gram,34,37,74
+Wheat,32,75,71
+Wheat,32,88,69
+Gram,35,41,68
+Rice,33,104,75
+Gram,32,41,73
+Rice,35,144,68
+Gram,33,41,70
+SugarCane,33,290,69
+Wheat,35,65,71
+SugarCane,33,285,73
+Gram,33,39,65
+Wheat,34,69,75
+Rice,35,144,65
+Rice,32,127,70
+Rice,35,107,72
+Rap seed,33,39,68
+Rap seed,33,38,75
+Field Pea,33,56,68
+Rap seed,33,36,69
+SugarCane,35,250,71
+Rap seed,33,43,71
+Field Pea,32,42,65
+Wheat,32,89,70
+SugarCane,34,278,69
+Rice,34,146,70
+Wheat,33,83,69
+SugarCane,33,254,68
+SugarCane,32,291,68
+Wheat,32,73,71
+Field Pea,34,42,72
+SugarCane,33,284,74
+Wheat,35,64,67
+Rice,34,133,67
+SugarCane,33,268,69
+Rap seed,32,43,75
+Rice,35,138,72
+Wheat,33,66,74
+SugarCane,34,287,71
+Wheat,32,90,74
+Field Pea,35,48,70
+SugarCane,35,260,74
+Field Pea,34,43,69
+Rap seed,35,42,68
+Rap seed,33,38,75
+Rap seed,33,37,72
+Rap seed,32,43,71
+Rice,34,102,72
+Wheat,33,85,66
+Field Pea,35,47,72
+Rice,33,143,68
+SugarCane,35,288,68
+Rap seed,33,45,72
+Rap seed,35,37,66
+Gram,32,41,70
+Rice,34,149,75
+Rap seed,33,35,71
+Wheat,32,75,68
+SugarCane,35,283,69
+Wheat,32,75,65
+Rice,33,141,68
+Rice,34,125,69
+Rice,32,101,72
+Gram,35,42,75
+Field Pea,35,54,71
+Gram,32,37,73
+Gram,35,37,65
+Gram,32,42,73
+Gram,34,36,72
+Rice,34,122,75
+SugarCane,35,254,70
+SugarCane,34,273,75
+SugarCane,32,277,71
+Gram,32,38,72
+Rap seed,32,42,65
+Rap seed,34,39,66
+Rap seed,32,39,65
+Rap seed,33,42,66
+Rice,33,106,71
+Rice,34,114,73
+Rice,34,106,71
+Field Pea,34,50,71
+Rap seed,35,40,67
+SugarCane,35,276,69
+SugarCane,35,285,68
+Gram,33,37,71
+Field Pea,32,60,68
+Rice,35,108,71
+Gram,33,36,72
+Field Pea,34,48,72
+Gram,32,40,73
+Rap seed,34,45,68
+Rice,35,124,65
+Rice,35,106,67
+Wheat,34,70,69
+Wheat,35,62,72
+Gram,35,44,71
+Rice,32,125,71
+Field Pea,33,56,65
+SugarCane,35,287,67
+Gram,33,35,66
+Gram,34,38,68
+SugarCane,34,278,65
+Rice,32,123,65
+Gram,32,44,74
+Rap seed,33,37,75
+Rap seed,35,45,71
+Field Pea,32,46,70
+Rap seed,33,36,65
+Wheat,33,80,71
+Rice,33,150,75
+Rice,32,123,75
+Field Pea,34,60,71
+Gram,32,44,70
+Rap seed,33,44,68
+Field Pea,35,41,66
+Rice,33,129,66
+Rice,33,132,66
+Field Pea,32,45,72
+Rice,34,143,72
+SugarCane,35,254,65
+SugarCane,33,268,75
+SugarCane,33,287,65
+Rice,33,133,75
+Gram,32,41,65
+Rap seed,34,41,67
+Wheat,34,81,68
+Rice,33,134,74
+Field Pea,35,43,71
+Wheat,32,74,73
+SugarCane,32,289,75
+Gram,33,35,68
+SugarCane,35,260,71
+Gram,32,41,70
+Field Pea,35,41,71
+Rap seed,33,40,74
+Field Pea,32,49,65
+Rap seed,35,44,71
+Gram,35,41,66
+Gram,33,35,68
+Wheat,33,61,70
+Gram,34,38,65
+Field Pea,33,41,74
+SugarCane,35,253,69
+Rap seed,32,37,72
+SugarCane,34,262,70
+Wheat,34,84,75
+SugarCane,32,278,73
+Field Pea,33,55,72
+Rap seed,34,43,66
+Field Pea,32,53,74
+Rice,35,108,69
+Gram,32,44,75
+Rice,34,146,65
+SugarCane,35,271,70
+Gram,32,39,73
+SugarCane,34,300,66
+Gram,32,43,74
+Wheat,35,66,68
+Gram,35,40,75
+Rap seed,35,37,71
+Field Pea,35,45,67
+Field Pea,32,52,68
+Rap seed,34,45,68
+Wheat,34,89,69
+Rice,32,150,68
+Gram,35,40,65
+SugarCane,32,275,65
+Rice,35,148,71
+Rap seed,32,36,75
+Gram,33,40,68
+Rap seed,32,42,74
+Wheat,33,77,75
+Gram,33,43,69
+Rap seed,35,43,68
+Field Pea,32,56,75
+SugarCane,34,275,68
+Wheat,32,70,68
+Wheat,32,89,65
+Rice,34,103,68
+Wheat,33,67,70
+Field Pea,34,48,68
+Wheat,35,71,68
+Gram,35,40,71
+Rice,34,142,66
+Wheat,32,67,75
+SugarCane,34,289,68
+Field Pea,32,60,70
+Wheat,32,70,65
+Gram,33,45,70
+Gram,32,43,69
+Rap seed,35,37,72
+Rap seed,35,41,71
+SugarCane,34,299,66
+Field Pea,32,46,75
+Wheat,34,87,70
+Gram,33,45,70
+Field Pea,33,57,73
+Rice,35,136,73
+Field Pea,32,57,72
+Field Pea,34,46,74
+Rice,34,148,65
+Wheat,33,75,72
+Rap seed,33,36,72
+Wheat,34,72,70
+Wheat,34,77,74
+Rap seed,35,41,73
+Rap seed,35,36,71
+Rice,35,104,66
+Wheat,32,75,73
+Gram,34,39,67
+Field Pea,34,53,65
+Rice,35,140,65
+Rap seed,34,43,75
+Gram,32,35,65
+SugarCane,34,282,68
+Gram,35,36,70
+Gram,35,39,68
+Rap seed,33,43,72
+Rice,32,119,71
+Rice,34,135,71
+Rap seed,34,44,72
+Gram,34,43,69
+Rap seed,34,35,70
+SugarCane,33,272,75
+Gram,32,44,71
+SugarCane,33,289,74
+Rap seed,35,40,67
+Gram,34,40,68
+Rap seed,33,37,73
+Rap seed,35,36,71
+Rice,33,149,70
+SugarCane,35,250,71
+Rap seed,35,45,70
+Rice,34,141,72
+Gram,35,38,65
+Wheat,34,61,65
+Field Pea,35,54,71
+Gram,33,38,75
+SugarCane,33,295,69
+Gram,34,41,70
+Rice,35,148,74
+Rap seed,32,41,73
+Wheat,35,64,69
+Gram,32,43,65
+Field Pea,32,50,69
+Rice,33,117,74
+Rice,34,102,70
+Rice,33,115,65
+Field Pea,34,40,73
+SugarCane,33,285,65
+Gram,34,44,68
+SugarCane,33,253,75
+Wheat,34,66,72
+Rice,33,116,75
+Rice,33,110,74
+Gram,32,40,71
+SugarCane,34,277,72
+Rice,35,137,67
+Field Pea,34,47,74
+SugarCane,34,274,68
+Wheat,33,62,69
+Field Pea,35,48,71
+Gram,34,40,66
+Gram,32,40,69
+Gram,33,39,71
+Field Pea,32,48,75
+Rice,33,124,66
+Wheat,32,61,72
+Rap seed,35,35,75
+SugarCane,32,279,75
+Field Pea,32,44,74
+Field Pea,32,54,75
+Rap seed,32,35,68
+Rap seed,34,42,70
+Gram,34,43,72
+Gram,33,38,65
+Rice,34,148,73
+Field Pea,32,54,74
+Field Pea,35,49,67
+Field Pea,35,40,72
+Gram,34,36,68
+Rap seed,33,41,68
+SugarCane,35,278,72
+SugarCane,32,274,75
+SugarCane,33,272,75
+Rice,34,117,75
+Rice,33,126,65
+Rice,33,137,71
+Rice,34,110,74
+Rice,35,118,71
+Wheat,35,60,65
+Rap seed,32,35,69
+SugarCane,32,257,65
+Wheat,35,68,70
+Rice,35,144,69
+Rice,33,129,68
+Gram,33,37,66
+Gram,32,39,67
+Field Pea,33,56,72
+Field Pea,35,40,65
+Wheat,35,82,65
+Wheat,35,88,74
+Gram,33,43,65
+SugarCane,34,257,71
+Rice,34,106,72
+Gram,33,44,72
+Rice,32,130,68
+Rice,32,145,73
+Rice,33,126,69
+Rice,34,114,69
+Rap seed,35,41,74
+SugarCane,32,256,68
+Field Pea,32,52,72
+Rap seed,33,43,75
+Rice,32,106,74
+Wheat,35,64,72
+Wheat,33,83,70
+Wheat,32,76,75
+Wheat,34,75,69
+Gram,35,44,74
+Gram,32,35,65
+Rice,34,118,69
+Wheat,32,65,68
+Field Pea,32,53,69
+SugarCane,33,298,69
+Rap seed,34,45,70
+Gram,33,44,72
+Rice,35,141,68
+Field Pea,32,52,68
+Gram,33,39,65
+Field Pea,35,57,68
+SugarCane,35,259,71
+Field Pea,33,57,72
+Gram,32,38,72
+Field Pea,35,48,72
+Gram,34,40,71
+Gram,33,38,75
+SugarCane,34,259,68
+Gram,34,40,72
+Gram,35,37,66
+SugarCane,35,253,67
+Wheat,34,79,66
+Rap seed,35,45,65
+Field Pea,33,41,70
+Field Pea,35,46,67
+Field Pea,33,41,72
+Wheat,33,72,72
+Wheat,33,64,75
+Wheat,32,74,71
+Gram,35,40,69
+Wheat,35,66,72
+Rice,33,146,74
+Gram,34,38,70
+Wheat,34,83,71
+SugarCane,33,279,70
+SugarCane,35,268,71
+Field Pea,33,50,75
+Rap seed,35,37,72
+Wheat,33,77,69
+SugarCane,34,294,67
+SugarCane,34,291,70
+Rap seed,34,37,71
+Gram,34,42,75
+Wheat,33,61,68
+Wheat,34,84,72
+Field Pea,35,45,71
+Wheat,34,66,71
+Wheat,33,74,66
+SugarCane,32,261,75
+SugarCane,35,278,75
+Field Pea,33,60,66
+Wheat,32,88,72
+Gram,32,38,68
+Rap seed,32,36,68
+Wheat,32,71,75
+Field Pea,33,56,68
+Gram,35,43,71
+Field Pea,33,46,68
+Gram,32,43,71
+Rap seed,32,35,71
+Rice,33,107,66
+Gram,32,42,72
+Rice,34,141,67
+Field Pea,35,54,69
+SugarCane,34,255,65
+Gram,35,43,71
+Gram,34,43,72
+Rap seed,33,44,65
+Rice,35,139,70
+Wheat,35,64,66
+Gram,34,39,65
+Rap seed,34,40,72
+Gram,34,42,69
+Field Pea,35,47,67
+Field Pea,34,52,69
+SugarCane,35,290,71
+Wheat,32,68,70
+Rice,34,144,71
+SugarCane,33,283,72
+SugarCane,35,255,75
+Rap seed,34,43,69
+SugarCane,35,267,65
+Rice,35,142,68
+Rap seed,33,37,66
+Gram,35,42,72
+SugarCane,34,271,75
+Gram,35,35,71
+Wheat,32,80,70
+Rice,34,106,65
+Rap seed,33,40,75
+Rap seed,35,36,71
+Rap seed,32,41,72
+Field Pea,34,54,66
+Field Pea,33,45,65
+Rap seed,35,43,65
+Wheat,35,89,70
+Gram,32,41,72
+SugarCane,32,260,73
+Field Pea,32,55,65
+Rap seed,32,39,74
+Rap seed,35,43,68
+Rice,33,130,65
+Rice,32,115,71
+Gram,35,45,72
+Rice,32,125,74
+SugarCane,34,277,66
+Field Pea,32,57,73
+SugarCane,33,265,73
+Rice,32,133,65
+Rice,35,143,70
+SugarCane,33,297,66
+SugarCane,33,250,72
+Gram,34,35,69
+Rice,35,125,72
+Rap seed,34,38,71
+Field Pea,35,56,72
+Rice,34,145,75
+Rice,32,119,65
+Wheat,35,63,67
+Rap seed,34,45,74
+Wheat,33,90,70
+Wheat,35,66,68
+SugarCane,33,299,73
+Gram,35,43,71
+Gram,35,42,67
+Field Pea,33,43,73
+Rice,35,133,72
+Rice,33,121,71
+Rap seed,35,45,75
+SugarCane,32,259,73
+Gram,34,41,67
+Field Pea,33,48,66
+Field Pea,34,57,70
+Rice,33,117,73
+Field Pea,33,54,70
+Wheat,34,89,75
+SugarCane,32,256,72
+Gram,32,42,71
+SugarCane,32,269,73
+Wheat,34,78,65
+Field Pea,32,53,74
+Rap seed,33,35,75
+Field Pea,32,49,74
+Rice,33,107,72
+SugarCane,35,265,72
+SugarCane,35,274,65
+Gram,32,44,74
+Wheat,34,60,72
+Field Pea,33,50,71
+Rap seed,35,39,71
+Wheat,33,60,74
+SugarCane,32,253,73
+Rap seed,34,41,65
+SugarCane,33,268,65
+Field Pea,34,42,75
+Field Pea,33,55,70
+Wheat,33,61,72
+SugarCane,35,293,69
+Wheat,33,69,65
+Wheat,34,72,72
+Wheat,32,80,69
+Rap seed,33,39,73
+Gram,33,45,72
+Gram,33,44,75
+Wheat,35,87,73
+Rap seed,32,44,70
+SugarCane,35,275,73
+Wheat,32,62,69
+Wheat,34,78,65
+SugarCane,35,290,75
+Field Pea,35,44,66
+Rice,33,106,69
+Gram,33,40,69
+SugarCane,35,288,71
+SugarCane,33,272,72
+SugarCane,32,283,65
+Wheat,32,63,74
+Gram,32,40,65
+Gram,32,37,68
+SugarCane,35,255,65
+SugarCane,33,272,69
+SugarCane,32,288,74
+Wheat,35,66,72
+Wheat,32,78,73
+Rice,34,109,74
+Rap seed,33,41,72
+Gram,33,39,75
+Field Pea,33,52,65
+Gram,34,38,74
+Rap seed,32,39,71
+Rice,34,149,74
+Rap seed,32,39,69
+Field Pea,34,42,67
+Rice,35,138,75
+SugarCane,34,251,73
+Rice,33,140,73
+Field Pea,34,59,66
+Field Pea,35,54,73
+Field Pea,35,40,75
+Field Pea,34,43,65
+SugarCane,32,293,71
+Rap seed,32,44,73
+Gram,33,43,71
+Rice,33,102,65
+Rap seed,34,42,70
+Gram,33,44,66
+Field Pea,35,45,70
+Wheat,34,74,66
+Rice,32,122,75
+Rice,33,141,68
+Rap seed,34,42,74
+Field Pea,35,51,65
+Rap seed,33,42,75
+SugarCane,34,300,72
+Rice,34,138,70
+SugarCane,35,283,70
+Wheat,35,83,70
+Wheat,32,73,74
+Gram,32,42,65
+Gram,34,39,66
+Rap seed,34,36,73
+Wheat,32,89,75
+Rice,34,144,68
+SugarCane,32,255,75
+Gram,35,36,70
+Rap seed,33,39,65
+SugarCane,35,256,71
+SugarCane,35,257,71
+Rice,32,148,67
+Gram,34,45,65
+Rice,33,121,72
+Wheat,34,89,67
+Wheat,33,60,75
+Field Pea,33,42,66
+Rap seed,32,41,69
+Rice,32,148,68
+Rice,33,147,71
+Rice,35,136,70
+Wheat,33,69,71
+SugarCane,32,279,72
+Gram,33,36,65
+Field Pea,33,49,75
+Rap seed,33,44,65
+Rap seed,34,36,75
+SugarCane,33,278,73
+Rap seed,35,39,70
+Wheat,34,60,71
+Wheat,34,75,66
+Rap seed,33,41,70
+Wheat,32,71,67
+Rap seed,35,36,74
+Field Pea,34,50,72
+SugarCane,32,273,65
+Gram,32,42,74
+Wheat,34,86,70
+Wheat,32,67,73
+Wheat,35,80,71
+Gram,35,41,73
+Wheat,34,63,67
+Field Pea,32,54,72
+Rap seed,34,42,66
+Wheat,33,72,66
+Rice,34,117,68
+SugarCane,35,291,71
+Rice,33,146,66
+SugarCane,33,274,68
+SugarCane,32,281,74
+Gram,33,36,66
+Field Pea,33,52,65
+SugarCane,34,284,71
+Rice,32,128,75
+Rap seed,34,41,75
+Rice,34,114,69
+Gram,34,37,67
+SugarCane,35,251,71
+Rice,32,119,69
+Rice,35,116,71
+SugarCane,33,300,66
+Field Pea,33,49,65
+Rice,33,127,72
+Field Pea,35,44,65
+Wheat,32,75,70
+Rap seed,33,45,73
+Rap seed,34,44,65
+Gram,32,43,68
+SugarCane,34,254,69
+Field Pea,34,51,74
+Rice,33,135,70
+Field Pea,33,57,71
+Gram,34,43,68
+Field Pea,33,59,73
+Gram,35,39,67
+SugarCane,32,295,65
+Gram,35,40,69
+SugarCane,32,298,70
+Rap seed,35,35,75
+Wheat,35,71,70
+Rice,35,149,68
+SugarCane,34,261,66
+Gram,33,35,72
+Wheat,35,81,65
+Gram,33,44,73
+SugarCane,32,284,74
+Rap seed,32,36,68
+Field Pea,33,58,66
+Field Pea,34,45,70
+Wheat,33,71,65
+Rap seed,35,44,72
+Field Pea,32,55,67
+SugarCane,33,255,70
+Wheat,33,86,69
+Field Pea,34,52,70
+Field Pea,35,42,71
+Rap seed,34,44,71
+Field Pea,34,46,70
+Gram,35,44,67
+Wheat,33,68,65
+Field Pea,34,57,71
+Field Pea,32,58,71
+Field Pea,35,44,75
